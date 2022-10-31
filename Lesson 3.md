@@ -1,20 +1,34 @@
 <h1>Lesson 3 / CSS basics</h1>
 
 <h3>Основные материалы:</h2>
-[Основы CSS](https://htmlacademy.ru/courses/307/run/16)<br>
-[СSS Basics from Dat.it](https://dan-it.gitlab.io/fe-book/programming_essentials/html_css/lesson2_extract_emmet_css/what-is-css.html)<br>
-[30 CSS-селекторов, о которых полезно помнить](http://codeharmony.ru/materials/42)<br>
-[Как строить структуру CSS и называть классы](https://dan-it.gitlab.io/fe-book/programming_essentials/other/css_structure.html)<br>
-[Популярные названия классов HTML/CSS](https://tpverstak.ru/common-css-class-names/)<br>
+<a href="https://htmlacademy.ru/courses/307/run/16">
+    Основы CSS
+</a>
+<br>
+<a href="https://dan-it.gitlab.io/fe-book/programming_essentials/html_css/lesson2_extract_emmet_css/what-is-css.html">
+    СSS Basics from Dat.it
+</a>
+<br>
+<a href="http://codeharmony.ru/materials/42">
+    30 CSS-селекторов, о которых полезно помнить
+</a>
+<br>
+<a href="https://dan-it.gitlab.io/fe-book/programming_essentials/other/css_structure.html">
+    Как строить структуру CSS и называть классы
+</a>
+<br>
+<a href="https://tpverstak.ru/common-css-class-names/">
+    Популярные названия классов HTML/CSS
+</a>
 
 <h3>Дополнительные материалы:</h2>
-[EMMET](https://dan-it.gitlab.io/fe-book/programming_essentials/html_css/lesson2_extract_emmet_css/emmet.html)<br>
+<a href="https://dan-it.gitlab.io/fe-book/programming_essentials/html_css/lesson2_extract_emmet_css/emmet.html">EMMET</a><br>
 
 <h3>Видео:</h2>
-[Учим CSS за 40 минут для начинающих от 10 лет (Основы с нуля)](https://www.youtube.com/watch?v=GoBvYPwv-g8)<br>
-[Основы CSS - Руководство для самых маленьких](https://www.youtube.com/watch?v=_nrQbO3iXgI)<br>
-[ВСЁ, что нужно знать о CSS Селекторах. Типы селекторы css](https://www.youtube.com/watch?v=lHI1v4KLb2I)<br>
-[Обзор DevTools за 30 минут для новичков HTML/CSS/JavaScript](https://www.youtube.com/watch?v=PDP9NNKtEuA)
+<a href="https://www.youtube.com/watch?v=GoBvYPwv-g8">Учим CSS за 40 минут для начинающих от 10 лет (Основы с нуля)</a><br>
+<a href="https://www.youtube.com/watch?v=_nrQbO3iXgI">Основы CSS - Руководство для самых маленьких</a><br>
+<a href="https://www.youtube.com/watch?v=lHI1v4KLb2I">ВСЁ, что нужно знать о CSS Селекторах. Типы селекторы css</a><br>
+<a href="https://www.youtube.com/watch?v=PDP9NNKtEuA">Обзор DevTools за 30 минут для новичков HTML/CSS/JavaScript</a><br>
 
 <h3>Домашнее задание</h3>
 
